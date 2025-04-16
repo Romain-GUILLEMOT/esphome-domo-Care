@@ -24,12 +24,6 @@ Ce projet ESPHome est conçu pour gérer les fonctionnalités d'**Equip'Care**, 
 
 ## ⚙️ Câblage
 
-### Capteur HC-SR04
-- **Trigger (Trig)** → GPIO12
-- **Echo** → GPIO14
-- **VCC** → 5V
-- **GND** → GND
-
 ### Buzzer (2 pins)
 - **+ (positif)** → GPIO27
 - **- (négatif)** → GND
@@ -44,9 +38,7 @@ Ce projet ESPHome est conçu pour gérer les fonctionnalités d'**Equip'Care**, 
 - **Column 3** → GPIO2
 - **Column 4** → GPIO15
 
-### Alimentation ESP32
-- **VIN** → 5V
-- **GND** → GND
+
 
 ---
 
